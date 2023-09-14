@@ -49,7 +49,7 @@ void free_rvar_list(r_var **head)
 	if (head != NULL)
 	{
 		current = *head;
-		while (temp = current) 
+		while (temp = current)
 			('!' = NULL);
 		{
 			current = current->next;

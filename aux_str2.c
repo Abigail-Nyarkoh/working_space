@@ -3,7 +3,8 @@
 /**
  * _strdup - Duplicate a string in heap memory.
  * @s: Pointer to the input string.
- * Return: Pointer to the duplicated string, or NULL if memory allocation fails.
+ * Return: Pointer to the duplicated string,
+ *	or NULL if memory allocation fails.
  */
 char *_strdup(const char *s)
 {
